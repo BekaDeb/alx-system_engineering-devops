@@ -33,3 +33,7 @@ This is a bash that creates a file and which displays Best School inside the tex
 ## 8-cwd_state
 
 It writes inside the file ls_cwd_content the result of the command given.
+
+## 9-duplicate_lastline
+
+The script duplicates the last line of the file which means it won't override any existing last line from the file.
