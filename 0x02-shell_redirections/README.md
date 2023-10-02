@@ -13,3 +13,7 @@ This script is a bash script that displays the content of the /etc/passwd file
 ## 3-twofiles
 
 This script is a bash that displays more than one line or content of the file
+
+## 4-lastlines
+
+This script is a bash that displays the last 10 lines of /etc/passwd. By default the tail command displays the last 10 lines so no need for another flag.
