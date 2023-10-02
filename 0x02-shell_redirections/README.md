@@ -17,3 +17,7 @@ This script is a bash that displays more than one line or content of the file
 ## 4-lastlines
 
 This script is a bash that displays the last 10 lines of /etc/passwd. By default the tail command displays the last 10 lines so no need for another flag.
+
+## 5-firstlines
+
+This script is a bash that displays the last 10 lines of /etc/passwd. Just like the previous task "lastlines" we just need to change the tail to head to show the first 10 lines.
