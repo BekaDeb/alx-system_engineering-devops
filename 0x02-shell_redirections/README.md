@@ -45,3 +45,7 @@ Script that deletes all the regular files with js files.
 ## 11-directories
 
 Script that counts no. of main directories and sub directories.
+
+## 12-newest_files
+
+Script that displays the new 10 files.
