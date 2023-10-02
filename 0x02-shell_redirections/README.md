@@ -21,3 +21,7 @@ This script is a bash that displays the last 10 lines of /etc/passwd. By default
 ## 5-firstlines
 
 This script is a bash that displays the last 10 lines of /etc/passwd. Just like the previous task "lastlines" we just need to change the tail to head to show the first 10 lines.
+
+## 6-third_lines
+
+This is a bash that displays the third line of the file iacta. By extracting the first three lines with head command and then selecting the last 1 line from the output of the head, we can display the third line in iacta.
