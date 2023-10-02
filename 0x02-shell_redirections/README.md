@@ -11,5 +11,5 @@ This script is a Bash script that displays a confused smiley "(Ôo)' to the stan
 This script is a bash script that displays the content of the /etc/passwd file
 
 ## 3-twofiles
-This script is a bash that displays more than one line or content of the file
 
+This script is a bash that displays more than one line or content of the file
