@@ -5,3 +5,7 @@ This script is a simple Bash script that prints "Hello, World" to the standard o
 ## 1-confused_smiley
 
 This script is a Bash script that displays a confused smiley "(Ôo)' to the standard output. It demonstrates how to print special characters in a Bash script using escape sequences.
+
+## 2-hellofile
+
+This script is a bash script that displays the content of the /etc/passwd file
