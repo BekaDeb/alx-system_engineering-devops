@@ -37,3 +37,7 @@ It writes inside the file ls_cwd_content the result of the command given.
 ## 9-duplicate_lastline
 
 The script duplicates the last line of the file which means it won't override any existing last line from the file.
+
+## 10-no_more_js
+
+Script that deletes all the regular files with js files.
