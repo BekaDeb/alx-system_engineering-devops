@@ -28,4 +28,4 @@ This is a bash that displays the third line of the file iacta. By extracting the
 
 ## 7-file
 
-This is a bash that creates a file and which displays Best School inside the text file. The backlash which was written needed to be ommited inorder to display the exact.
+This is a bash that creates a file and which displays Best School inside the text file.

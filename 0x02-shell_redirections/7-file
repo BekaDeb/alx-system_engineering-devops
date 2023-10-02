@@ -1,5 +1,2 @@
 #!/bin/bash
-
-7-file="\*\\'\""Best School"\"\\'\*$\?\\*****:)" 
-
-echo "Best School" > "$7-file"
+echo "Best School" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
