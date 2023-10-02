@@ -41,3 +41,7 @@ The script duplicates the last line of the file which means it won't override an
 ## 10-no_more_js
 
 Script that deletes all the regular files with js files.
+
+## 11-directories
+
+Script that counts no. of main directories and sub directories.
