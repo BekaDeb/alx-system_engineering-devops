@@ -70,4 +70,22 @@ script that displays lines containing the pattern “root” and 3 lines after t
 
 Script that displays all the lines in the file etc/passwd
 
+## 18-letteronly
 
+Script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+## 19-AZ
+
+Script that Replace all characters A and c from input to Z and e respectively.
+
+## 20-hiago
+
+Script that Create a script that removes all letters c and C from input.
+
+## 21-reverse
+
+Script that reverses its input.
+
+## 22-users_and_homes
+
+Script that Write a script that displays all users and their home directories, sorted by users.
