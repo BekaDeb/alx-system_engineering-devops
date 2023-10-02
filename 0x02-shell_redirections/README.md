@@ -57,3 +57,17 @@ Script that takes a list of words as input and prints only words that appear exa
 ## 14-findthatword
 
 Script that Displays lines containing the pattern “root” from the file /etc/passwd
+
+## 15-countthatword
+
+script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
+
+## 16-whatsnext
+
+script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
+## 17-hidethisword
+
+Script that displays all the lines in the file etc/passwd
+
+
