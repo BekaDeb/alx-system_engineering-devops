@@ -49,3 +49,11 @@ Script that counts no. of main directories and sub directories.
 ## 12-newest_files
 
 Script that displays the new 10 files.
+
+## 13-unique
+
+Script that takes a list of words as input and prints only words that appear exactly once.
+
+## 14-findthatword
+
+Script that Displays lines containing the pattern “root” from the file /etc/passwd
