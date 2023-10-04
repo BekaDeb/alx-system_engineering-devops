@@ -1,13 +1,17 @@
 ## 0x03. Shell, init files, variables and expansions
 
-# <o>
+# 0. <o>
 
 The bash file is trying to create an alias ls which had already a "list files and directories" command inside it, but also now remove command is added into it.
 
-# Hello you
+# 1. Hello you
 
 The bash file writes "hello user" instead of user.
 
-# The path to success is to take massive, determined action
+# 2. The path to success is to take massive, determined action
 
 The scrpt exports the set in which PATH ends with "/action" directory.
+
+# 3. If the path be beautiful, let us not ask where it leads
+
+script that counts the number of directories in the PATH.
