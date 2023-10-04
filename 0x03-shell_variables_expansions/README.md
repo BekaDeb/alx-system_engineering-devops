@@ -6,4 +6,4 @@ The bash file is trying to create an alias ls which had already a "list files an
 
 # Hello you
 
-The bash file displays the user with an alias named "hello user".
+The bash file writes "hello user" instead of user.
