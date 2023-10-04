@@ -39,3 +39,7 @@ script that prints the result of the addition of 128 with the value stored in th
 # 9. Divide and rule
 
 Script that prints the result of POWER divided by DIVIDE.
+
+# 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+
+Script that displays the result of BREATH to the power LOVE.
