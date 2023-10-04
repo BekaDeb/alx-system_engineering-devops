@@ -19,3 +19,7 @@ Script that counts the number of directories in the PATH.
 # 4. Global variables
 
 Script that lists environment variables.
+
+# 5. Local variables
+
+Script that lists all local variables and env variables and also func.
