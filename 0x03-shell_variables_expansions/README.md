@@ -43,6 +43,11 @@ Script that prints the result of POWER divided by DIVIDE.
 # 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 
 Script that displays the result of BREATH to the power LOVE.
+
 # 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
 
 Script that converts a number from base 2 to base 10
+
+# 12. Combination
+
+Script that prints all possible combinations of two letters, except oo.
