@@ -23,3 +23,7 @@ Script that lists environment variables.
 # 5. Local variables
 
 Script that lists all local variables and env variables and also func.
+
+# 6. Local variable
+
+script that creates a new local variable.
