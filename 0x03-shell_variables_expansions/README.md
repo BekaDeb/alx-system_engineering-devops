@@ -14,4 +14,8 @@ The scrpt exports the set in which PATH ends with "/action" directory.
 
 # 3. If the path be beautiful, let us not ask where it leads
 
-script that counts the number of directories in the PATH.
+Script that counts the number of directories in the PATH.
+
+# 4. Global variables
+
+Script that lists environment variables.
